@@ -1,0 +1,97 @@
+@charset "utf-8";
+
+#bo_list .mb-photo {
+	width:18px; 
+	height:18px; }
+
+#bo_list .hd-wrap {
+	font-size: 14px; }
+
+#bo_list .wr-no,
+#bo_list .wr-date,
+#bo_list .wr-num {
+	font-size: 12px; }
+
+#bo_list .wr-name {
+	font-size: 13px; }
+
+@media (min-width: 1200px) {
+	#bo_list.list-xl .wr-no,
+	#bo_list.list-xl .wr-date,
+	#bo_list.list-xl .wr-num {
+		font-size: 13px;
+		text-align: center; }
+
+	#bo_list.list-xl .wr-name {
+		font-size: 14px; }
+
+	#bo_list.list-xl .hd-name,
+	#bo_list.list-xl .wr-name {
+		width: 100px; }
+
+	#bo_list.list-xl .hd-date,
+	#bo_list.list-xl .wr-date {
+		width: 80px; }
+
+	#bo_list.list-xl .hd-hit,
+	#bo_list.list-xl .wr-hit {
+		width: 70px; }
+
+	#bo_list.list-xl .hd-num,
+	#bo_list.list-xl .wr-num {
+		width: 60px; }
+}
+
+@media (min-width: 992px) {
+	#bo_list.list-lg .wr-no,
+	#bo_list.list-lg .wr-date,
+	#bo_list.list-lg .wr-num {
+		font-size: 13px;
+		text-align: center; }
+
+	#bo_list.list-lg .wr-name {
+		font-size: 14px; }
+
+	#bo_list.list-lg .hd-name,
+	#bo_list.list-lg .wr-name {
+		width: 100px; }
+
+	#bo_list.list-lg .hd-date,
+	#bo_list.list-lg .wr-date {
+		width: 80px; }
+
+	#bo_list.list-lg .hd-hit,
+	#bo_list.list-lg .wr-hit {
+		width: 70px; }
+
+	#bo_list.list-lg .hd-num,
+	#bo_list.list-lg .wr-num {
+		width: 60px; }
+}
+
+@media (min-width: 768px) {
+	#bo_list.list-md .wr-no,
+	#bo_list.list-md .wr-date,
+	#bo_list.list-md .wr-num {
+		font-size: 13px;
+		text-align: center; }
+
+	#bo_list.list-md .wr-name {
+		font-size: 14px; }
+
+	#bo_list.list-md .hd-name,
+	#bo_list.list-md .wr-name {
+		width: 100px; }
+
+	#bo_list.list-md .hd-date,
+	#bo_list.list-md .wr-date {
+		width: 80px; }
+
+	#bo_list.list-md .hd-hit,
+	#bo_list.list-md .wr-hit {
+		width: 70px; }
+
+	#bo_list.list-md .hd-num,
+	#bo_list.list-md .wr-num {
+		width: 60px; }
+}

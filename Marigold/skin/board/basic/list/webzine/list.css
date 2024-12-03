@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+#bo_list .wr-num {
+	font-size: 12px; }
+
+@media (max-width: 575px) {
+	.sero-sm .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 767px) {
+	.sero-md .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 991px) {
+	.sero-lg .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 1199px) {
+	.sero-xl .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (min-width: 1399px) {
+	.sero-xxl .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}

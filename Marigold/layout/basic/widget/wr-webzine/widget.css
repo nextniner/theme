@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+@media (max-width: 575px) {
+	.wr-webzine .sero-sm .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 767px) {
+	.wr-webzine .sero-md .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 991px) {
+	.wr-webzine .sero-lg .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (max-width: 1199px) {
+	.wr-webzine .sero-xl .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
+@media (min-width: 1399px) {
+	.wr-webzine .sero-xxl .rounded-start {
+		border-top-left-radius: var(--bs-border-radius) !important;
+		border-top-right-radius: var(--bs-border-radius) !important;
+		border-bottom-left-radius: 0 !important;
+	}
+}
